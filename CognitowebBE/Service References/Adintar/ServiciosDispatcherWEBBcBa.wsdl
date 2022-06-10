@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/AdintarWEBBcBa/ServiciosDispatcherWEBBcBa/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/AdintarWEBBcBa/ServiciosDispatcherWEBBcBa/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/AdintarWEBBcBa/ServiciosDispatcherWEBBcBa/">
+      <s:element name="GrabarNovedad_Generico">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pOrigen" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pNro_Interno" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pNovedad" type="tns:NovedadStr" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="NovedadStr">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_tipnov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nro_nov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Codigo_adm" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Codigo_ent" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_cue" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Codigo_tipdom" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_pla" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Nro_adic" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ColCamposNovedad" type="tns:ArrayOfNovedadCampoStr" />
+          <s:element minOccurs="0" maxOccurs="1" name="Desc_tipnov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Desc_estnov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Desc_orinov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_estnov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Cod_orinov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Mensaje" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Fechaestado_nov" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Valores" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfNovedadCampoStr">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="NovedadCampoStr" type="tns:NovedadCampoStr" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="NovedadCampoStr">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Secuencia" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Valor" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Valor_anterior" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GrabarNovedad_GenericoResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GrabarNovedad_GenericoResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GrabarNovedad_GenericoSoapIn">
+    <wsdl:part name="parameters" element="tns:GrabarNovedad_Generico" />
+  </wsdl:message>
+  <wsdl:message name="GrabarNovedad_GenericoSoapOut">
+    <wsdl:part name="parameters" element="tns:GrabarNovedad_GenericoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiciosDispatcherWEBBcBaSoap">
+    <wsdl:operation name="GrabarNovedad_Generico">
+      <wsdl:input message="tns:GrabarNovedad_GenericoSoapIn" />
+      <wsdl:output message="tns:GrabarNovedad_GenericoSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiciosDispatcherWEBBcBaSoap" type="tns:ServiciosDispatcherWEBBcBaSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GrabarNovedad_Generico">
+      <soap:operation soapAction="http://tempuri.org/AdintarWEBBcBa/ServiciosDispatcherWEBBcBa/GrabarNovedad_Generico" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiciosDispatcherWEBBcBaSoap12" type="tns:ServiciosDispatcherWEBBcBaSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GrabarNovedad_Generico">
+      <soap12:operation soapAction="http://tempuri.org/AdintarWEBBcBa/ServiciosDispatcherWEBBcBa/GrabarNovedad_Generico" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ServiciosDispatcherWEBBcBa">
+    <wsdl:port name="ServiciosDispatcherWEBBcBaSoap" binding="tns:ServiciosDispatcherWEBBcBaSoap">
+      <soap:address location="http://localhost/serviciosAdintarWeb/ServiciosDispatcherWEBBcBa.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiciosDispatcherWEBBcBaSoap12" binding="tns:ServiciosDispatcherWEBBcBaSoap12">
+      <soap12:address location="http://localhost/serviciosAdintarWeb/ServiciosDispatcherWEBBcBa.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

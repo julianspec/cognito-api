@@ -1,0 +1,24 @@
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebBE\bin\Release\CognitowebBE.dll.config
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebBE\bin\Release\CognitowebBE.dll
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebBE\bin\Release\CognitowebBE.pdb
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebBE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebBE\obj\Release\CognitowebBE.dll
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebBE\obj\Release\CognitowebBE.pdb
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebBE\bin\Release\CognitowebBE.dll.config
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebBE\bin\Release\CognitowebBE.dll
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebBE\bin\Release\CognitowebBE.pdb
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebBE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebBE\obj\Release\CognitowebBE.dll
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebBE\obj\Release\CognitowebBE.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\bin\Release\CognitowebBE.dll.config
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\bin\Release\CognitowebBE.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\bin\Release\CognitowebBE.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\obj\Release\ResolveAssemblyReference.cache
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\obj\Release\CognitowebBE.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\obj\Release\CognitowebBE.pdb
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebBE\bin\Release\CognitowebBE.dll.config
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebBE\bin\Release\CognitowebBE.dll
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebBE\bin\Release\CognitowebBE.pdb
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebBE\obj\Release\ResolveAssemblyReference.cache
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebBE\obj\Release\CognitowebBE.dll
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebBE\obj\Release\CognitowebBE.pdb

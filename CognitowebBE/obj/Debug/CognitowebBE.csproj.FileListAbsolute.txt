@@ -1,0 +1,11 @@
+C:\sistemas\cognitoweb\cognitoweb_proyect\CognitowebBE\obj\Debug\ResolveAssemblyReference.cache
+C:\sistemas\cognitoweb\cognitoweb_proyect\CognitowebBE\bin\Debug\CognitowebBE.dll
+C:\sistemas\cognitoweb\cognitoweb_proyect\CognitowebBE\bin\Debug\CognitowebBE.pdb
+C:\sistemas\cognitoweb\cognitoweb_proyect\CognitowebBE\obj\Debug\CognitowebBE.dll
+C:\sistemas\cognitoweb\cognitoweb_proyect\CognitowebBE\obj\Debug\CognitowebBE.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\bin\Debug\CognitowebBE.dll.config
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\bin\Debug\CognitowebBE.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\bin\Debug\CognitowebBE.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\obj\Debug\ResolveAssemblyReference.cache
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\obj\Debug\CognitowebBE.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebBE\obj\Debug\CognitowebBE.pdb

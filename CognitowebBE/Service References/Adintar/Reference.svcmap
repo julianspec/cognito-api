@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5794c71c-6346-4909-bb8d-1e06f8e47400" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/serviciosAdintarWeb/ServiciosDispatcherWEBBcBa.asmx" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiciosDispatcherWEBBcBa.disco" MetadataType="Disco" ID="23fc9775-d32e-49a3-8d8b-fb9431f83b43" SourceId="1" SourceUrl="http://localhost/serviciosAdintarWeb/ServiciosDispatcherWEBBcBa.asmx?disco" />
+    <MetadataFile FileName="ServiciosDispatcherWEBBcBa.wsdl" MetadataType="Wsdl" ID="51fb166f-bc35-41cb-9557-7002a7fbe3a2" SourceId="1" SourceUrl="http://localhost/serviciosAdintarWeb/ServiciosDispatcherWEBBcBa.asmx?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

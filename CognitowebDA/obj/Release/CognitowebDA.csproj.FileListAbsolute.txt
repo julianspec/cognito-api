@@ -1,0 +1,36 @@
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\bin\Release\CognitowebDA.dll
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\bin\Release\CognitowebDA.pdb
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.dll
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\bin\Release\CognitowebBE.dll
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\bin\Release\CognitowebBE.pdb
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\obj\Release\CognitowebDA.dll
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\obj\Release\CognitowebDA.pdb
+C:\Users\christian\Documents\Bco.Ciudad\CognitoWeb_FUENTES\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.pdb
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\bin\Release\CognitowebDA.dll
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\bin\Release\CognitowebDA.pdb
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.dll
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\bin\Release\CognitowebBE.dll
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.pdb
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\bin\Release\CognitowebBE.pdb
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\obj\Release\CognitowebDA.dll
+C:\Users\christian\Desktop\Cognito_para_Pablo\CognitowebProyect_FUENTES\CognitowebDA\obj\Release\CognitowebDA.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\bin\Release\CognitowebDA.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\bin\Release\CognitowebDA.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\bin\Release\CognitowebBE.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\bin\Release\CognitowebBE.pdb
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\obj\Release\ResolveAssemblyReference.cache
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\obj\Release\CognitowebDA.dll
+C:\sistemas\cognitoweb\CognitowebProyect\CognitowebDA\obj\Release\CognitowebDA.pdb
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\bin\Release\CognitowebDA.dll
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\bin\Release\CognitowebDA.pdb
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.dll
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\bin\Release\CognitowebBE.dll
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\bin\Release\BancoCiudad.Canales.Framework.Encrypt.pdb
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\bin\Release\CognitowebBE.pdb
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\obj\Release\CognitowebDA.dll
+C:\Users\julian.speciale\Desktop\Dev\Cognito\version base\CognitowebDA\obj\Release\CognitowebDA.pdb
